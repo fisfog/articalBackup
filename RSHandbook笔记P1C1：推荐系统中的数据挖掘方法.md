@@ -3,6 +3,9 @@
 标签： 推荐系统HandBook笔记
 
 ---
+
+[本文地址](https://www.zybuluo.com/littlekid/note/66980)
+
 [TOC]
 # 介绍
 本章主要介绍推荐系统中使用的数据挖掘技术。

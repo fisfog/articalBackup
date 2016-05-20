@@ -4,6 +4,8 @@
 
 ---
 
+[本文地址](https://www.zybuluo.com/littlekid/note/166627)
+
 ##比赛介绍
 两年一届的人工智能顶会IJCAI与阿里合办的机器学习比赛。由Alibaba inc.提供比赛数据。和去年以及今年的天池大数据竞赛赛题相似但又不同。
 
